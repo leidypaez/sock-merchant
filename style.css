@@ -1,0 +1,40 @@
+body {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button {
+  padding: 10px;
+  border: none;
+  background-color: blueviolet;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.button:hover {
+  box-shadow: 5px 5px 40px 5px rgb(197, 106, 253);
+}
+
+.labels {
+  text-align: center;
+  margin: 10px;
+}
+.labels label {
+  padding: 10px
+}
+
+.labels input {
+  padding: 10px;
+  font-size: 20px;
+}
+
+.center {
+  text-align: center;
+  margin: 20px;
+}
+
+.center-result input{
+  padding: 10px;
+  font-size: 20px;
+}
