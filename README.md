@@ -37,4 +37,4 @@ if(findSock.length === 0) {
 __Proceso de los datos:__
 
   -  Muestra de los datos y su respectivo resultado
-![imagen]()
+![imagen](https://github.com/leidypaez/sock-merchant/blob/main/img/image.png)

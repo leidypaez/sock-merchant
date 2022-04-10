@@ -19,10 +19,7 @@ function merchant(n, ar) {
   return pairsOfSocks;
 }
 
-const sendSocks = (calcetines, array) => {
+const sendSocks = (departureSocks, array) => {
   let arr = array.split(',');
-  document.getElementById('result').value = merchant(calcetines, arr);
+  document.getElementById('result').value = merchant(departureSocks, arr);
 }
-const btn = buttonClick.addEventListener("click", () => {
-  buttonClick = document.getElementById("colores").value; 
-});
